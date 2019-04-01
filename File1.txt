@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 First line
 Second line1 by Uma again
+=======
+
+Second line edited by Ashok
+Adding 3rd line
+and 4th line
+>>>>>>> f30391fd6233e26554eeab2f457d8dea6898db22
